@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O Algoritmo Milionário 2025</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="attention-banner">ATENÇÃO: Este eBook Será BANIDO em 48h</div>
+            <h1>O Algoritmo Milionário 2025</h1>
+            <a href="https://heldercarlos.gumroad.com/l/ffdlwv" class="cta-button">GARANTIR ACESSO AGORA</a>
+            <a href="#offer" class="cta-button">SAIBA MAIS</a>
+        </div>
+    </header>
+
+    <div class="container">
+        <section id="intro">
+            <h2>Descubra o Método que Está Transformando Vidas</h2>
+            <p>Você sabia que 92% dos brasileiros NÃO sabem usar IA para ganhar dinheiro?</p>
+            <p>Este eBook revela 3 métodos COMPROVADOS que funcionam em 2025</p>
+        </section>
+
+        <section id="benefits">
+            <h2>Benefícios Exclusivos do Algoritmo Milionário</h2>
+            <div class="benefits-grid">
+                <div class="benefit-card">
+                    <h3><span class="checkbox"></span> Renda Passiva</h3>
+                    <p>Ganhe R$5K-R$30K/mês sem aparecer na internet</p>
+                    <p>Aprenda métodos discretos que geram renda sem exposição pessoal</p>
+                </div>
+                <div class="benefit-card">
+                    <h3><span class="checkbox checked"></span> Ferramentas Gratuitas</h3>
+                    <p>Ferramentas 100% GRÁTIS (links na página 45)</p>
+                    <p>Acesse todas as ferramentas de IA necessárias sem investimento inicial</p>
+                </div>
+                <div class="benefit-card">
+                    <h3><span class="checkbox checked"></span> Tempo Flexível</h3>
+                    <p>Apenas 2h/dia de trabalho (cronograma na pág. 22)</p>
+                    <p>Organize sua rotina com nosso cronograma otimizado para resultados rápidos</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="testimonials">
+            <h2>Resultados Reais de Pessoas Como Você</h2>
+            <div class="testimonials">
+                <div class="testimonial">
+                    <p>"Fiz R$8.750 em 17 dias!"</p>
+                    <p class="testimonial-author">@CarlosRJ</p>
+                    <p>Carlos implementou o Método 2 e conseguiu resultados surpreendentes em menos de três semanas.</p>
+                </div>
+                <div class="testimonial">
+                    <p>"Meu chefe não acredita que estou viajando e ganhando mais!"</p>
+                    <p class="testimonial-author">@AnaSP</p>
+                    <p>Ana agora trabalha remotamente enquanto viaja e aumentou sua renda significativamente.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="offer">
+            <h2>Oferta Especial por Tempo Limitado</h2>
+            <div class="offer-container">
+                <h3>O Algoritmo Milionário 2025</h3>
+                <div class="price">
+                    <span class="original-price">Preço Original: R$6297</span><br>
+                    <span class="discounted-price">Preço PROMOCIONAL: R$547</span><br>
+                    <span>(após timer: R$197)</span>
+                </div>
+                <div class="timer" id="timer">OFERTA EXPIRA EM BREVE!</div>
+                <div class="bonus">
+                    <h3>BÔNUS EXCLUSIVO:</h3>
+                    <p>"Lista de 100 Prompts para ChatGPT" (grátis hoje)</p>
+                </div>
+                <a href="https://heldercarlos.gumroad.com/l/ffdlwv" class="cta-button">COMPRAR AGORA</a>
+            </div>
+        </section>
+
+        <section id="guarantee">
+            <div class="guarantee">
+                <h2>Nossa Garantia Incondicional</h2>
+                <h3>7 Dias de Garantia INCONDICIONAL</h3>
+                <p>Se não amar, devolvo 200%!</p>
+                <p>Estamos tão confiantes nos resultados que você obterá que oferecemos uma garantia dupla do seu investimento.</p>
+            </div>
+        </section>
+
+        <section id="faq">
+            <h2>Perguntas Frequentes</h2>
+            <div class="faq-item">
+                <h3>Preciso de experiência?</h3>
+                <p>NÃO! Até meu avô de 68 anos fez R$3K!</p>
+                <p>O eBook foi desenvolvido para iniciantes absolutos, com instruções passo a passo que qualquer pessoa pode seguir.</p>
+            </div>
+            <div class="faq-item">
+                <h3>É ilegal?</h3>
+                <p>100% dentro da lei (pág. 58 explica)</p>
+                <p>Todos os métodos são éticos e legais. Dedicamos uma seção inteira para explicar os aspectos legais e como operar corretamente.</p>
+            </div>
+        </section>
+
+        <section id="how-it-works">
+            <h2>Como Funciona o Algoritmo Milionário</h2>
+            <div class="steps">
+                <div class="step">
+                    <h3>Passo 1: Acesse o eBook</h3>
+                    <p>Faça o download imediato após a compra e comece a estudar os 3 métodos comprovados.</p>
+                </div>
+                <div class="step">
+                    <h3>Passo 2: Implemente as Estratégias</h3>
+                    <p>Siga o cronograma da página 22 e dedique apenas 2 horas por dia.</p>
+                </div>
+                <div class="step">
+                    <h3>Passo 3: Utilize as Ferramentas Gratuítas</h3>
+                    <p>Acesse todos os recursos listados na página 45 sem custo adicional.</p>
+                </div>
+                <div class="step">
+                    <h3>Passo 4: Comece a Gerar Renda</h3>
+                    <p>Veja os resultados aparecerem, como nossos casos de sucesso já comprovaram.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="final-cta">
+            <h2>Não Perca Esta Oportunidade</h2>
+            <div class="offer-container">
+                <p><strong>LEMBRE-SE:</strong></p>
+                <p>Este eBook Será BANIDO em 48h</p>
+                <p>Preço PROMOCIONAL: R$547 (após timer: R$197)</p>
+                <p>Bônus GRÁTIS: "Lista de 100 Prompts para ChatGPT"</p>
+                <p>7 Dias de Garantia INCONDICIONAL – Se não amar, devolvo 200%!</p>
+                <a href="https://heldercarlos.gumroad.com/l/ffdlwv" class="cta-button">GARANTIR MEU ACESSO AGORA</a>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>LIMITED TIME OFFER</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
